@@ -125,3 +125,6 @@ MIT License
 ## 👨‍💻 Author
 
 Dibuat untuk portfolio project dengan CRUD lengkap, auth, dan realtime-ready structure.
+
+## Link APK dan Video Demo
+https://drive.google.com/drive/folders/1ii8DaHeKGlzujUYkvJpTCM60Gu9l-hQs?usp=sharing
