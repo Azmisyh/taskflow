@@ -128,3 +128,6 @@ Dibuat untuk portfolio project dengan CRUD lengkap, auth, dan realtime-ready str
 
 ## Link APK dan Video Demo
 https://drive.google.com/drive/folders/1ii8DaHeKGlzujUYkvJpTCM60Gu9l-hQs?usp=sharing
+
+## Link Aplikasi deploy web
+https://taskflow1010.netlify.app/
